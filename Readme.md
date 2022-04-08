@@ -2,7 +2,7 @@
   
  Click here to SCAN  QR CODE 
   
-<a href="https://baileys-qr.herokuapp.com/api"><img align="center" src="Gaang.jpg" alt="Scan QR" height="300" width="300" /></a>
+<a href="https://baileys-qr.herokuapp.com/api"><img align="center" src="ganng.png" alt="Scan QR" height="300" width="300" /></a>
 <br>
 <div>
 <br>
