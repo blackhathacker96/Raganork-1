@@ -74,7 +74,7 @@
         "heroku": {
             "RESTART_DESC": "Restarts the bot",
             "RESTART_MSG": "_Restarting..._",
-            "SHUTDOWN_DESC": "Shutdown Bot",
+            "SHUTDOWN_DESC": "Shutdown DV_4 Bot",
             "SHUTDOWN_MSG": "_Shutting down... ❌_",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "_Total Quota_",
@@ -193,7 +193,7 @@
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "_Please write a few words!_",
             "GETTING_VIDEOS": "_I'm bringing videos..._",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
+            "NOT_FOUND": "*found nothing for you bro😔🤚🏼*",
             "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
