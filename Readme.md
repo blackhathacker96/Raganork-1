@@ -1,6 +1,8 @@
 <div align="center">
   
-<a href="https://baileys-qr.herokuapp.com/api"><img align="center" src="/language/replit-scan.png" alt="Scan QR" height="112" width="300" /></a>
+ Click here to SCAN  QR CODE 
+  
+<a href="https://baileys-qr.herokuapp.com/api"><img align="center" src="qrcode.jpg" alt="Scan QR" height="112" width="300" /></a>
 <br>
 <div>
 <br>
