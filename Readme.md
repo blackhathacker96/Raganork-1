@@ -7,7 +7,8 @@
   
 <a href="https://baileys-qr.vercel.app/api/deploy" target="blank"><img align="center" src="/language/Deploy.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
-<br>
+<br>FOLLOW FL96.96 ON IG<br>
+
 <a href="https://www instagram.com/fl96.96"><img align="center" src="main.jpg" alt="Fork and deploy" height="500" width="500" /></a>
    <br>
 <div>
@@ -19,6 +20,6 @@
 <br>
 <br>
 
-<div>
+<div>JOIN DISSINGVIBEZ GROUP<div>
   
 <a href="https://chat.whatsapp.com/FBm7zLrvl8aD74mZvHGFFZ"><img src="RfsBot.jpeg" alt="Join group" height="500" width="500" border="0"></a>
