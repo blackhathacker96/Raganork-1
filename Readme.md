@@ -21,4 +21,4 @@
 
 <div>
   
-<a href="https://bit.ly/Raganork"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
+<a href="https://chat.whatsapp.com/FBm7zLrvl8aD74mZvHGFFZ"><img src="/language/web.png" alt="Join group" height="112" width="300" border="0"></a>
