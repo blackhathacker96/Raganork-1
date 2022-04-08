@@ -21,4 +21,4 @@
 
 <div>
   
-<a href="https://chat.whatsapp.com/FBm7zLrvl8aD74mZvHGFFZ"><img src="RfsBot.jpeg" alt="Join group" height="112" width="300" border="0"></a>
+<a href="https://chat.whatsapp.com/FBm7zLrvl8aD74mZvHGFFZ"><img src="RfsBot.jpeg" alt="Join group" height="500" width="500" border="0"></a>
